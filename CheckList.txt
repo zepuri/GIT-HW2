@@ -1,0 +1,4 @@
+Security testing
+1) Testing permissions (access to camera/microphone/gallery/etc.)
+2) User data (passwords) are not transmitted in plain text
+3) In the fields where the password is entered and the password is confirmed, the data is hidden by asterisks
